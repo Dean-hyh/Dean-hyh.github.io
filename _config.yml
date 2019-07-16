@@ -1,29 +1,27 @@
 # Site settings
-title: ZHJ
-SEOTitle: 张好佳的博客 | BY ZHJ
-header-img: img/404-bg.jpg      #首页背景图片
-email: zhanghaojia668@163.com     
+title: Dean
+SEOTitle: Dean.hyh的博客 | BY Dean
+header-img: img/index-bg-header.jpg      #首页头部背景图片
+email: dean.hyh@gmail.com     
 description: "Every failure is leading towards success."
-keyword: "BY, BY ZHJ, 张好佳的博客"
-url: "http://zhanghaojia668.github.io"          # your host, for absolute URL
+keyword: "BY, BY Dean, Dean.hyh的博客"
+url: "https://dean-hyh.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zhanghaojia668/zhanghaojia668.github.io" # you code repository
+github_repo: "https://github.com/Dean-hyh/Dean-hyh.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Just do it!"
+sidebar-about-description: "Life is a struggle!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/` 个人图片
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-github_username:    zhanghaojia668
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:    我本亻
+github_username:     Dean-hyh
+#facebook_username:  Houzi.Ah
+#twitter_username:   Dean.h
 
 
 
@@ -99,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WYN",
-        href: "https://github.com/wangyanan123654"
+        title: "Dean",
+        href: "#"
     }
 ]
